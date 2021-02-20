@@ -1,2 +1,2 @@
-https://NikonovAO.github.io/rsschool-cv/cv
-https://nikonovao.github.io/rsschool-cv/
+1. https://NikonovAO.github.io/rsschool-cv/cv
+2. https://nikonovao.github.io/rsschool-cv/

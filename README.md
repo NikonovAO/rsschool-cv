@@ -1,1 +1,1 @@
-# rsschool-cv
+https://NikonovAO.github.io/rsschool-cv/cv

@@ -20,6 +20,11 @@
 .ul_header li{
     display: inline-block;
 }
+.contact_infotmation{
+    width: 800px;
+    margin: 0 auto;
+    padding-left: 0px;
+}
 .ul_footer{
     list-style: none;
     width: 800px;

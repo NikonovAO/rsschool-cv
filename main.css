@@ -1,17 +1,45 @@
-.tests{
+header{
     width: 800px;
     margin: 0 auto; 
 }
-.line{
+main{
     width: 800px;
+    margin: 0 auto;
+}
+.contact_infotmation{
+    width: 800px;
+    margin: 0 auto; 
+}
+.about{
+    width: 800px;
+    margin: 0 auto; 
+}
+.skills{
+    width: 800px;
+    margin: 0 auto; 
+}
+.experience{
+    width: 800px;
+    margin: 0 auto; 
+}
+.education{
+    width: 800px;
+    margin: 0 auto; 
+}
+.english{
+    width: 800px;
+    margin: 0 auto; 
+}
+footer{
+    width: 800px;
+    margin: 0 auto;
+}
+.line{
     height: 1px;
     background-color: #323746;
-    margin: 0 auto;
 }
 .ul_header{
     list-style: none;
-    width: 800px;
-    margin: 0 auto;
     padding-left: 0px;
     display: flex;
     flex-wrap: wrap;
@@ -27,9 +55,8 @@
 }
 .ul_footer{
     list-style: none;
-    width: 800px;
-    margin: 0 auto;
     padding-left: 0px;
+    text-align: center;
 }
 .ul_footer li{
     display: inline-block;

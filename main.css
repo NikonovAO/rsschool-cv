@@ -2,7 +2,24 @@
     width: 800px;
     margin: 0 auto; 
 }
-
+.line{
+    width: 800px;
+    height: 1px;
+    background-color: #323746;
+    margin: 0 auto;
+}
+.ul_header{
+    list-style: none;
+    width: 800px;
+    margin: 0 auto;
+    padding-left: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.ul_header li{
+    display: inline-block;
+}
 .ul_footer{
     list-style: none;
     width: 800px;

@@ -1,64 +1,41 @@
+body{
+    max-width: 800px;
+    margin: 0 auto;
+}
 header{
-    width: 800px;
-    margin: 0 auto; 
-}
-main{
-    width: 800px;
-    margin: 0 auto;
-}
-.contact_infotmation{
-    width: 800px;
-    margin: 0 auto; 
-}
-.about{
-    width: 800px;
-    margin: 0 auto; 
-}
-.skills{
-    width: 800px;
-    margin: 0 auto; 
-}
-.experience{
-    width: 800px;
-    margin: 0 auto; 
-}
-.education{
-    width: 800px;
-    margin: 0 auto; 
-}
-.english{
-    width: 800px;
-    margin: 0 auto; 
-}
-footer{
-    width: 800px;
-    margin: 0 auto;
-}
-.line{
-    height: 1px;
-    background-color: #323746;
-}
-.ul_header{
-    list-style: none;
-    padding-left: 0px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-}
-.ul_header li{
-    display: inline-block;
+    padding: 10px 0px;
+    border-bottom: 1px solid gray;
 }
 .contact_infotmation{
-    width: 800px;
-    margin: 0 auto;
-    padding-left: 0px;
+    padding: 10px 0px;
+    border-bottom: 1px solid gray;
 }
-.ul_footer{
-    list-style: none;
-    padding-left: 0px;
-    text-align: center;
+main{
+    padding: 10px 0px;
+    border-bottom: 1px solid gray;
 }
-.ul_footer li{
-    display: inline-block;
-    margin: 0 50px 0 0;
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px 0px;
+}
+ol li{
+    padding: 10px 0px;
+}
+.contact_label{
+    font-weight: 800;
+}
+.education_label{
+    font-weight: 800;
+}
+.name_company{
+    font-style: italic;
+}
+.english_label{
+    font-weight: 800;
+    font-style: italic;
 }
